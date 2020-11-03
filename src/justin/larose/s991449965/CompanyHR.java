@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * This class +++ Insert Description here +++
- * 
+ * kk
  * @author Haki
  */
 public class CompanyHR {
